@@ -23,7 +23,7 @@ const pages = {
             children: [
                 {
                     id: 'login3',
-                    title: 'Login',
+                    title: 'Login SSO',
                     type: 'item',
                     url: '/pages/login/login3',
                     target: true

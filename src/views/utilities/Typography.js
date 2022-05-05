@@ -78,7 +78,7 @@ const Typography = () => (
                             <MuiTypography variant="body2" gutterBottom>
                                 body2. Lorem ipsum dolor sit connecter adieu siccing eliot. Quos blanditiis tenetur unde suscipit, quam
                                 beatae rerum inventore consectetur, neque doloribus, cupiditate numquam dignissimos laborum fugiat deleniti?
-                                Eum quasi quidem quibusdam.
+                                Eum quasi quidem quibusdam..
                             </MuiTypography>
                         </Grid>
                     </Grid>

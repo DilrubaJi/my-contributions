@@ -12,7 +12,7 @@ const other = {
     children: [
         {
             id: 'sample-page',
-            title: 'Sample Page',
+            title: 'Consent',
             type: 'item',
             url: '/sample-page',
             icon: icons.IconBrandChrome,
@@ -20,9 +20,9 @@ const other = {
         },
         {
             id: 'documentation',
-            title: 'Documentation',
+            title: 'Sustainability@Zuhlke',
             type: 'item',
-            url: 'https://codedthemes.gitbook.io/berry/',
+            url: 'https://confluence.zuehlke.com/pages/viewpage.action?pageId=217450821',
             icon: icons.IconHelp,
             external: true,
             target: true

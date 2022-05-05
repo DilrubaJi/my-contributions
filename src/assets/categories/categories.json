@@ -1,0 +1,194 @@
+{
+    "name": "Sustainabity at Zuhlke",
+    "children": [
+        {
+            "name": "climate action",
+            "children": [
+                {
+                    "name": "energy saving",
+                    "children": [
+                        { "name": "green buildings", "value": 1000 },
+                        { "name": "efficient heating and cooling", 
+                            "children": [ {"name": "building insulation", "value": 3812 }]},
+                        { "name": "Carbon Capture", "value": 100 }
+                    ]
+                },
+                {
+                    "name": "renewable energy",
+                    "children": [
+                        { "name": "wind energy", "value": 1000 },
+                        { "name": "solar energy", 
+                            "children": [{"name": "photovoltaics", "value": 5731 }]},
+                        { "name": "hydropower", "value": 1000 },
+                        { "name": "geothermal energy", "value": 1500 },
+                        { "name": "green electricty", "value": 10000 }
+                    ]
+                },
+                {
+                    "name": "energy storage and transmission",
+                    "children": [
+                        { "name": "smart grid", "value": 1000 },
+                        { "name": "hydrogen", "value": 500 },
+                    ]
+                },
+
+                {
+                    "name": "green computing",
+                    "children": [
+                        { "name": "green cloud", "children": 
+                            [{"name": "c02 aware cloud computing", "value": 1000 }]},
+                        { "name": "hardware longevity", "value": 1000 }
+                    ]
+                }
+                ,
+                {
+                    "name": "carbon removal",
+                    "children": [
+                        { "name": "direct air capture", "value": 500 },
+                        { "name": "tree planting", "value": 2000 }, 
+                        { "name": "forest conservation", "children": [
+                            {"name": "rainforest conservation", "value": 1000}
+                        ]}
+                    ]
+                }              
+                ,
+                {
+                    "name": "circular economy",
+                    "children": [
+                        { "name": "less comsumption", "value": 4000 },
+                        { "name": "buying eco friendly", "value": 5000 }, 
+                        { "name": "less waste", "children": [
+                            {"name": "less food waste", "value": 3000}
+                        ]},
+                        { "name": "resusing", "value": 3000 },
+                        { "name": "repairing", "value": 2000 }, 
+                        { "name": "recycling", "value": 5000 }
+                    ]
+                } 
+                ,
+                {
+                    "name": "green mobility",
+                    "children": [
+                        { "name": "less travel", "value": 6000 },
+                        { "name": "remote working", "value": 80000 }, 
+                        { "name": "walking", "value": 6000},
+                        { "name": "cycling", "value": 7000 },
+                        { "name": "public transport", "value": 12000 }, 
+                        { "name": "going by train", "value": 5000 },
+                        { "name": "electric vehicles", "value": 2000 },
+                        { "name": "car pooling", "value": 1500 }, 
+                        { "name": "less flying", "value": 5000 }
+                    ]
+                }
+                ,
+                {
+                    "name": "green transportation", "value": 200
+                }
+                ,
+                {
+                    "name": "sustainable finance", "value": 400
+                }
+                ,
+                {
+                    "name": "diet change",
+                    "children": [
+                        { "name": "lless meat", "value": 13000 },
+                        { "name": "less fish and seafood", "value": 12000 }, 
+                        { "name": "less dairy", "value": 4000}
+                    ]
+                } 
+                ,
+                {
+                    "name": "water saving", "value": 2200
+                }          
+                ,
+                {
+                    "name": "climate adaption", "value": 1
+                }  
+            ]
+        },
+        {
+            "name": "health improvement",
+            "children": [
+                {
+                    "name": "air quality",
+                    "children": [
+                        { "name": "indoor air quality", "value": 3000 },
+                        { "name": "pollution", "value": 3000 }
+                    ]
+                },
+                {
+                    "name": "lifestyle choices",
+                    "children": [
+                        { "name": "physical exercise", "value": 50000 },
+                        { "name": "healthy diet", "value": 50000 },
+                        { "name": "sleep and recovery", "value": 10000 },
+                        { "name": "quitting smoking", "value": 1000 }
+                    ]
+                },
+                {
+                    "name": "occupational health and safety",
+                    "children": [
+                        { "name": "first aid", "value": 2000 },
+                        { "name": "ergonomic workplace", "value": 6000 },
+                        { "name": "labaratory safety", "value": 500 },
+                        { "name": "home office", "value": 6000 }
+                    ]
+                },
+                { "name": "mental health", "value": 6000 },
+                {
+                    "name": "prevention",
+                    "children": [
+                        { "name": "hygiene", "value": 75000 },
+                        { "name": "vaccination", "value": 100000 },
+                        { "name": "health check ups", "value": 100000 }
+                    ]
+                },
+
+                { "name": "diagnosis", "value": 1 },
+                { "name": "treatment", "value": 1 }
+            ]
+        },
+        {
+            "name": "positive project impact",
+            "children": [
+                {
+                    "name": "sustainability offerings",
+                    "children": [
+                        { "name": "sustainabiulity innovation and ecodesign", 
+                        "children": [
+                            { "name": "lifecycle analysis", "value": 20 }
+                        ]
+                        },
+                        { "name": "green infrastructure", "value": 10 },
+                        { "name": "circular industry", "value": 10 },
+                        { "name": "sustainable software", "value": 15 },
+                        { "name": "data for sustainability", 
+                        "children": [
+                            { "name": "data driven c02 reduction", "value": 5 }
+                        ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "sustainable way of working",
+            "children": [
+                { "name": "sustainable commuting", "value": 25000 },
+                { "name": "sustainable business travel", "value": 100 },
+                { "name": "sustainable offices", "value": 5 }
+            ]
+        },
+        {
+            "name": "community engagement",
+            "children": [
+                { "name": "volunteering", "value": 8000 },
+                { "name": "pro-bono consulting", "value": 50 },
+                { "name": "fund raising", "value": 2500 },
+                { "name": "team event", "value": 3000 },
+                { "name": "spread the word", "value": 2000 }
+            ]
+        }
+    ]
+}
